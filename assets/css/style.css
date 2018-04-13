@@ -341,7 +341,7 @@ footer {
         margin-top: 0px;
     }
 
-    img#bioImage { width: 100%; margin-bottom: 12px; }
+    img#bioImage { width: 35%; }
 
     section#portfolio .workItem:nth-child(odd),
     section#portfolio .workItem:nth-child(even) {
