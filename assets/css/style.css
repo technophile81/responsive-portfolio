@@ -322,6 +322,8 @@ footer {
     section {
         width: 100%;
     }
+    section#portfolio .workItem .workTitle { font-size: 14px; }
+
 }
 
 @media ( max-width: 640px) {
