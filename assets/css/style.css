@@ -330,6 +330,7 @@ footer {
 @media ( max-width: 640px) {
     header {
         margin: 0 auto 15px;
+        position: static; 
     }
     header .container {
         margin-left: 0;
